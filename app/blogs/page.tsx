@@ -8,9 +8,7 @@ export default function Blogs() {
       <main className="max-w-2xl mx-auto p-4 md:p-8">
         <h1 className="text-3xl font-bold mb-8">Blogs</h1>
         <ul className="list-disc list-inside space-y-2">
-          <li><Link href="#" className="underline">Blog Post 1</Link> - Brief summary</li>
-          <li><Link href="#" className="underline">Blog Post 2</Link> - Brief summary</li>
-          <li><Link href="#" className="underline">Blog Post 3</Link> - Brief summary</li>
+          <li><Link href="https://dev.to/thisisanshgupta/building-a-meta-search-engine-in-python-a-step-by-step-guide-1jb8" className="underline">Building a Meta Search Engine in Python: A Step-by-Step Guide </Link></li>
         </ul>
       </main>
     </div>
