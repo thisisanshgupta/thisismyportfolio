@@ -21,7 +21,7 @@ export function Header() {
           onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
           className="p-2 rounded-md bg-gray-200 dark:bg-gray-800"
         >
-          {theme === 'dark' ? 'Day' : 'Night'}
+          {theme === 'dark' ? 'Light' : 'Dark'}
         </button>
       </nav>
     </header>
