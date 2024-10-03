@@ -19,7 +19,7 @@ export default function Home() {
           <p>
             Feel free to reach out to me on <Link href="https://github.com/thisisanshgupta" className="underline">GitHub</Link>, 
             <Link href="https://x.com/ansh_hey" className="underline"> X</Link>, or via  
-            <Link href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=anshg6063@gmail.com&tf=1" className="underline"> Email</Link>.
+            <Link href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=thisisanshgupta@gmail.com&tf=1" className="underline"> Email</Link>.
           </p>
         </section>
       </main>
