@@ -8,6 +8,13 @@ export default function Home() {
       <Header />
       <main className="max-w-2xl mx-auto p-4 md:p-8">
         <h1 className="text-4xl font-bold mb-8">Hey, I'm Ansh</h1>
+        <section>
+          <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">recents</h2>
+          <p>
+            Recently my startup idea got selected for OnDeck Founders Fellowship program in SF.
+          </p>
+        </section>
+        
         <section className="mb-8">
           <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">about</h2>
           <p>Hey I'm Ansh and I am a student and a <span>
@@ -23,6 +30,7 @@ export default function Home() {
             layout="responsive"
           />
         </section>
+        
         <section>
           <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">contact me</h2>
           <p>
