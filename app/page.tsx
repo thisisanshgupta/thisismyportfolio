@@ -23,7 +23,7 @@ export default function Home() {
         </section>
         <section className="mb-8">
           <Image 
-            src="/quote.jpeg" 
+            src="/Black-Hole-Warped-World.gif" 
             alt="featured_image" 
             width={500} 
             height={300} 
