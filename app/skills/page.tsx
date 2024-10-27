@@ -11,11 +11,9 @@ export default function Skills() {
             <h2 className="text-xl font-bold mb-2">Programming Languages</h2>
             <ul className="list-disc list-inside space-y-1">
               <li>Java</li>
-              <li>C</li>
-              <li>C++</li>
+              <li>C/C++</li>
               <li>Python</li>
               <li>HTML/CSS/JavaScript</li>
-              <li>Fortran (basic experience)</li>
             </ul>
           </div>
           <div>
