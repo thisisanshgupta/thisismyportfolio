@@ -10,9 +10,9 @@ export default function Home() {
         <h1 className="text-4xl font-bold mb-8">Hey, I'm Ansh</h1>
         <section>
           <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">recents</h2>
-          <p>
+          <li>
             Recently my startup idea got selected for OnDeck Founders Fellowship program in SF and for The Residency program in Bengaluru.
-          </p>
+          </li>
         </section>
         
         <section className="mb-8">
