@@ -11,7 +11,7 @@ export default function Home() {
         <section>
           <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">recents</h2>
           <p>
-            Recently my startup idea got selected for OnDeck Founders Fellowship program in SF.
+            Recently my startup idea got selected for OnDeck Founders Fellowship program in SF and for The Residency program in Bengaluru.
           </p>
         </section>
         
