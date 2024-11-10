@@ -18,6 +18,7 @@ export default function Projects() {
           <li><Link href="https://github.com/thisisanshgupta/pytorch_BERT" className="underline">BERT in Pytorch</Link> - My Pytorch implementation of BERT model.</li>
           <li><Link href="https://github.com/thisisanshgupta/miniature-GPT" className="underline">miniGPT in Pytorch</Link> - My Pytorch implementation of a miniature GPT model.</li>
           <li><Link href="https://github.com/thisisanshgupta/thisismyportfolio" className="underline">Ansh's Portfolio</Link> - My portfolio.</li>
+          <li><Link href="https://github.com/thisisanshgupta/hydrogen_atom_sim" className="underline">Hydrogen Atom Ground State Simulation</Link> - This MATLAB script simulates the ground state of a hydrogen atom using quantum mechanics principles.</li>
           <li>and many more to come.</li>
         </ul>
       </main>
