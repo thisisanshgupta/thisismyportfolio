@@ -7,19 +7,15 @@ export default function Home() {
     <div className="min-h-screen bg-background text-foreground">
       <Header />
       <main className="max-w-2xl mx-auto p-4 md:p-8">
-        <h1 className="text-4xl font-bold mb-8">Hey, I'm Ansh</h1>
-        <section>
-          <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">recents</h2>
-          <li>
-            Recently my startup idea got selected for OnDeck Founders Fellowship program in SF and for The Residency program (backed by Sam Altman) in Bengaluru.
-          </li>
-        </section>
-        
+        <h1 className="text-4xl font-bold mb-8">Hey, I'm Ansh</h1>  
         <section className="mb-8">
-          <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">about</h2>
-          <p>Hey I'm Ansh and I am a student and a <span>
-          3 ⭐ Coder </span> 
-          with a strong foundation in programming languages like C/C++,Java and Python and various frameworks like Pytorch.</p>
+          <h2 className="inline-block bg-secondary px-2 py-1 text-sm mb-2">who am I ?</h2>
+          <p>
+            Hello! I’m Ansh, a passionate student and a 3-star coder with a solid foundation in programming 
+            languages such as C/C++, Java, and Python. I have experience with various frameworks, including PyTorch. 
+            Recently, my startup idea was selected for the prestigious OnDeck Founders Fellowship program in San Francisco,
+            as well as The Residency program backed by Sam Altman in Bengaluru. 
+          </p>
         </section>
         <section className="mb-8">
           <Image 
