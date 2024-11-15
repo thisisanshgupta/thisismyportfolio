@@ -13,7 +13,7 @@ export default function Home() {
           <p>
             Hello! I’m Ansh, a passionate student and a 3-star coder with a solid foundation in programming 
             languages such as C/C++, Java, and Python. I have experience with various frameworks, including PyTorch. 
-            Recently, my startup idea was selected for the prestigious OnDeck Founders Fellowship program in San Francisco,
+            <br>  </br> Recently, my startup idea was selected for the prestigious OnDeck Founders Fellowship program in San Francisco,
             as well as The Residency program backed by Sam Altman in Bengaluru. 
           </p>
         </section>
