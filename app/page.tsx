@@ -28,6 +28,7 @@ export default function Home() {
             height={300} 
             style={{ width: '100%', height: 'auto' }} 
           />
+          <p>Stay Curious, Stay Foolish!</p>
         </section>
         
         <section>
