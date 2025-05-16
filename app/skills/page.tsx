@@ -13,6 +13,8 @@ export default function Skills() {
               <li>Java</li>
               <li>C/C++</li>
               <li>Python</li>
+              <li>Golang</li>
+              <li>Elixir</li>
               <li>HTML/CSS/JavaScript</li>
             </ul>
           </div>
