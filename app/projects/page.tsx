@@ -8,6 +8,7 @@ export default function Projects() {
       <main className="max-w-2xl mx-auto p-4 md:p-8">
         <h1 className="text-3xl font-bold mb-8">Projects</h1>
         <ul className="list-disc list-inside space-y-2">
+          <li><Link href="https://github.com/thisisanshgupta/paper-roll" className="underline">Paper-Roll</Link> - A clean, distraction-free way to explore, read, and save cutting-edge research from arXiv, all in one smooth scroll.  </li>
           <li><Link href="https://github.com/thisisanshgupta/my-cuties-cycle" className="underline">Mellow7</Link> - A cute period tracker app for your cutie. </li>
           <li><Link href="https://github.com/thisisanshgupta/Senna" className="underline">Senna</Link> - Senna is an advanced AI-powered search engine. </li>
           <li><Link href="https://github.com/thisisanshgupta/KAN_based_GPT" className="underline">KAN based GPT</Link> - This is a GPT model from nanoGPT but with a twist of KAN.</li>
