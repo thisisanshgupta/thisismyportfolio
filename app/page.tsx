@@ -38,10 +38,10 @@ export default function Home() {
             <Link href="https://github.com/thisisanshgupta" target="_blank" rel="noopener noreferrer">
               <span className="underline"> GitHub</span>
             </Link>,  
-            <Link href="https://x.com/ansh_hey" target="_blank" rel="noopener noreferrer">
+            <Link href="https://x.com/thisisanshgupta" target="_blank" rel="noopener noreferrer">
               <span className="underline"> X</span>
             </Link>, or via  
-            <Link href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=anshg6063@gmail.com&tf=1" target="_blank" rel="noopener noreferrer">
+            <Link href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=thisisanshgupta@gmail.com&tf=1" target="_blank" rel="noopener noreferrer">
               <span className="underline"> Email</span>
             </Link>.
           </p>
